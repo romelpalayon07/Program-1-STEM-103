@@ -1,3 +1,5 @@
 # Program-1-STEM-103
 (Finished code inside of main)
-We split up the project into three parts of the requirements. 1st two bullet points were done by Arnav, next bullet point was done by romel, user needing to do something was made by all members of the group. Last bullet point was completed by Ryan, as well as the while loops.
+We split up the project into three parts of the requirements. 1st two bullet points were done by Arnav, next bullet point was done by romel, user needing to do something was made by all members of the group. The last bullet point was completed by Ryan, as well as the while loops.
+
+The program is a fantasy-based text game, first asks if the user would like to play the game with the input of yes or no. Next, the user is asked to input their name as well as the character of their choosing. Each input the user enters is followed with a "Press Enter to Continue" command. Pausing the game before continuing on to the next question. Lastly, the user is asked to choose a pathway based on their interest in schooling major for the EvCC website. After they choose the pathway it will lead to a recommended list of classes the user should take based on their pathway interest. After completing the game the user is asked if they want play again and is asked to input the same question from the start of yes to play again or no to exit the game. 
